@@ -10,6 +10,10 @@ namespace ILBConsoleApplication
     {
         static void Main(string[] args)
         {
+            int i = 10;
+            Console.WriteLine("sasasasas");
+            
+            int j = 20;
         }
     }
 }
